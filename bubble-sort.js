@@ -1,6 +1,6 @@
 function bubbleSort(arr) {
   if (!Array.isArray(arr)) {
-    return false;
+    throw new Error('Parameter must be an array');
   }
 
   var first;
