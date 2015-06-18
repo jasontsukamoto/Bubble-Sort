@@ -11,7 +11,8 @@ Create a project and a repo for your Bubble Sort implementation. You probably wa
 Add Mocha/Chai to your project for writing your tests against your function.
 Write your tests FIRST that will indicate that your sorting function works with multiple inputs.
 Implement a function that will take an input Array and apply the bubble sort algorithm to sort the input and return the number of moves that were necessary to sort the Array.
-Extra
+
+#Extra
 
 Create a way for all Arrays to be able to use your bubble sort function as a method of the Array object.
 
